@@ -1,4 +1,5 @@
-'''Python comprehensions are a very natural and easy way
+'''
+Python comprehensions are a very natural and easy way
 to create lists, dicts, and sets. They are also a great
 alternative to using maps and filters within python. If
 you are using maps, filters, or for loops to create your
